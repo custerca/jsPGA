@@ -2,6 +2,7 @@
 Predicting fish responses to climate change using a joint species, spatially dependent physiologically guided abundance model (https://doi.org/10.1002/ecy.4362)
 
 ## Information
+This repository is cloned from the official USGS repository.
 
 Repository Type: R and stan scripts 
 
